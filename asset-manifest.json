@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://and27.github.io/phishing/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "https://and27.github.io/phishing/static/js/main.ed175914.chunk.js",
-    "main.js.map": "https://and27.github.io/phishing/static/js/main.ed175914.chunk.js.map",
+    "main.js": "https://and27.github.io/phishing/static/js/main.0a0ed00b.chunk.js",
+    "main.js.map": "https://and27.github.io/phishing/static/js/main.0a0ed00b.chunk.js.map",
     "runtime-main.js": "https://and27.github.io/phishing/static/js/runtime-main.f976e485.js",
     "runtime-main.js.map": "https://and27.github.io/phishing/static/js/runtime-main.f976e485.js.map",
     "static/js/2.35901243.chunk.js": "https://and27.github.io/phishing/static/js/2.35901243.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f976e485.js",
     "static/js/2.35901243.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ed175914.chunk.js"
+    "static/js/main.0a0ed00b.chunk.js"
   ]
 }
