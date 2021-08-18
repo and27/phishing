@@ -12,7 +12,7 @@ function App() {
        <div className="col-md-6 py-5 text-center">
          <h1 style={{fontSize:"80px"}}>Software Antiphishing </h1>
          <h2>Te simplificamos la toma de decisiones en el área de ciberseguridad de tu empresa. </h2>
-         <h6>Evita millones de ataques de Ransomware, Compromiso de correo electrónico comercial y Recolección de credenciales eluden las costosas soluciones de seguridad del correo electrónico cada año. Están en las bandejas de entrada de sus usuarios en este momento. </h6>
+         {/* <h6>Evita millones de ataques de Ransomware, Compromiso de correo electrónico comercial y Recolección de credenciales eluden las costosas soluciones de seguridad del correo electrónico cada año. Están en las bandejas de entrada de sus usuarios en este momento. </h6> */}
        </div>
        <div className="col-md-6">
        <Form>
