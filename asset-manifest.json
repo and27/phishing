@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://and27.github.io/phishing/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "https://and27.github.io/phishing/static/js/main.85e2b9c2.chunk.js",
-    "main.js.map": "https://and27.github.io/phishing/static/js/main.85e2b9c2.chunk.js.map",
+    "main.js": "https://and27.github.io/phishing/static/js/main.ed175914.chunk.js",
+    "main.js.map": "https://and27.github.io/phishing/static/js/main.ed175914.chunk.js.map",
     "runtime-main.js": "https://and27.github.io/phishing/static/js/runtime-main.f976e485.js",
     "runtime-main.js.map": "https://and27.github.io/phishing/static/js/runtime-main.f976e485.js.map",
     "static/js/2.35901243.chunk.js": "https://and27.github.io/phishing/static/js/2.35901243.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "https://and27.github.io/phishing/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "https://and27.github.io/phishing/static/css/main.8c8b27cf.chunk.css.map",
     "static/js/2.35901243.chunk.js.LICENSE.txt": "https://and27.github.io/phishing/static/js/2.35901243.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "https://and27.github.io/phishing/static/media/logo.6ce24c58.svg"
+    "static/media/logo.c546a512.png": "https://and27.github.io/phishing/static/media/logo.c546a512.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f976e485.js",
     "static/js/2.35901243.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.85e2b9c2.chunk.js"
+    "static/js/main.ed175914.chunk.js"
   ]
 }
